@@ -1,5 +1,5 @@
 # Bioinf_tools
-Homework project made during python course in Bioinformatics Institute. Main goal was to collect main developed tools in one place
+Homework project made during python course in Bioinformatics Institute. Main goal was to collect developed tools in one place
 
 # Main Features
 1. Random forest algorithm with parallelization
