@@ -7,6 +7,9 @@ Homework project made during python course in Bioinformatics Institute. Main goa
 3. OpenFasta context manager
 4. gbk parser
 6. Biological sequences custom classes
+
+
+Please see Showcases for examples, and desired docstrings for usage options
 # Installation
 ```
 git clone git@github.com:VovaGrig/Bioinf_tools.git
